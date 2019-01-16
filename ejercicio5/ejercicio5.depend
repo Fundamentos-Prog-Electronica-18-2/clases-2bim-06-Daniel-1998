@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1547652337 source:c:\users\salas\desktop\ejercicio5\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<sstream>
+
